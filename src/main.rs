@@ -23,5 +23,5 @@ fn main() {
         redelegate_days: 28.0, // Use only float number
         period: 365.0 // Use only float number
     };
-    println!("result : {}", token.apr());
+    println!("result: {}", token.apr());
 }
